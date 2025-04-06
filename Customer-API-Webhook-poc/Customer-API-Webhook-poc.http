@@ -1,0 +1,6 @@
+@Customer_API_Webhook_poc_HostAddress = http://localhost:5243
+
+GET {{Customer_API_Webhook_poc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

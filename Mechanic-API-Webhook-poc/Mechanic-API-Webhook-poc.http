@@ -1,0 +1,6 @@
+@Mechanic_API_Webhook_poc_HostAddress = http://localhost:5098
+
+GET {{Mechanic_API_Webhook_poc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
